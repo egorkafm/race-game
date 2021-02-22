@@ -174,12 +174,6 @@ function moveEnemy() {
 			item.style.left = Math.floor(Math.random() * (gameArea.offsetWidth - item.offsetWidth / 2)) + 'px';
 		};
 
-		
-		
-
-		
-
-		
 	});
 
 	
